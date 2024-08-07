@@ -25,6 +25,7 @@ int main() {
         cout << " primera modificacion "<<endl; 
         cout << "segunda modificacion"<<endl;
         cout<< "tercera modificacion" <<endl;
+        cout<<" cuarta modifiacion"<<endl;
         cout << "0. Salir" << endl;
         cout << "Ingrese opcion: ";
         cin >> opcion;
